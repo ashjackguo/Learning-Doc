@@ -1,0 +1,25 @@
+{
+  "name": "learning-doc",
+  "version": "1.0.0",
+  "description": "A vuepress doc",
+  "scripts": {
+    "dev": "./node_modules/.bin/vuepress dev docs",
+    "build": "./node_modules/.bin/vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zexingguo/Learning-Doc.git"
+  },
+  "author": "Jack Guo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zexingguo/Learning-Doc/issues"
+  },
+  "homepage": "https://github.com/zexingguo/Learning-Doc#readme",
+  "devDependencies": {
+    "vuepress": "^1.0.0-alpha.42"
+  },
+  "dependencies": {
+    "global": "^4.3.2"
+  }
+}
